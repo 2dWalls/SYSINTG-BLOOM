@@ -21,6 +21,7 @@ $_SESSION['password']="";
 <link rel="stylesheet" type="text/css" href="css/menu.css">
 
 <script type="text/javascript" src="js/function.js"></script>
+<title>Student Data</title>
 <style>
   table{
     overflow-y: scroll;
@@ -37,9 +38,9 @@ $_SESSION['password']="";
 			<a id="menu-toggle" class="button dark" href="#"><i class="icon-reorder"></i></a>
 			<nav id="navigation">
 				<ul id="main-menu">
-					<li class="current-menu-item"><a href="Data.php">Home</a></li>
+					<li ><a href="Data.php">Home</a></li>
 					<li><a href="univData.php">University Data</a></li>
-					<li><a href="studentData.php">Student Data</a></li>
+					<li class="current-menu-item"><a href="studentData.php">Student Data</a></li>
 
 
 				</ul>

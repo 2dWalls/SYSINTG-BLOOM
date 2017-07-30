@@ -21,6 +21,7 @@ $_SESSION['password']="";
 <link rel="stylesheet" type="text/css" href="css/menu.css">
 
 <script type="text/javascript" src="js/function.js"></script>
+		<title>Data</title>
 <style>
   table{
     overflow-y: scroll;

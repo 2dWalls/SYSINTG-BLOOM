@@ -11,7 +11,7 @@ $_SESSION['password']="";
     <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="css/menu.css">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Highcharts Example</title>
+		<title>University Data</title>
 
 		<style type="text/css">
 
@@ -26,8 +26,8 @@ $_SESSION['password']="";
   			<a id="menu-toggle" class="button dark" href="#"><i class="icon-reorder"></i></a>
   			<nav id="navigation">
   				<ul id="main-menu">
-  					<li class="current-menu-item"><a href="Data.php">Home</a></li>
-  					<li><a href="univData.php">University Data</a></li>
+  					<li ><a href="Data.php">Home</a></li>
+  					<li class="current-menu-item"><a href="univData.php">University Data</a></li>
   					<li><a href="studentData.php">Student Data</a></li>
 
 
