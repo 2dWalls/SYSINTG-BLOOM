@@ -65,7 +65,7 @@ $(document).ready(function () {
             text: 'University Population'
         },
         tooltip: {
-            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+					pointFormat: '{series.name}: <b>{point.y:1f} Students</b>'
         },
         plotOptions: {
             pie: {
